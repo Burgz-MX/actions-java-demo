@@ -16,4 +16,4 @@ java-version: '17'
 - name: Compile
 run: javac Hello.java
 - name: Run
-run: java Hello
+run: java Hello 
